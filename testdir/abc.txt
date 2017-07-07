@@ -1,0 +1,16 @@
+git commands
+====================================
+
+cd = directory path
+ls = show dir listing
+
+upload file/dir process
+=========================================
+1. git add filename
+2. git commit -m "uploading my file" filename/dirname
+3. git push origin master
+
+
+check director status
+=========================================
+git status
